@@ -24,6 +24,6 @@ export default ApiService.filmPopular
 onPopularRender();
 
 
-
+console.log('hello Git');
 // ApiService.filmPopular().then(console.log)
 // newFilmsApi.fetchInformationAboutFilm().then(console.log)
